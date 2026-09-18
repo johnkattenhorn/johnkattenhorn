@@ -1,12 +1,6 @@
 ## John Kattenhorn
 
-CTO and engineer. I spent the last couple of years building the technical
-function at Kwalee from the ground up, people first, and the twelve years
-before that running Applicita, the consultancy I founded in 2012 and closed in
-2024.
-
-What I care about is much the same in both: hire well, get the unglamorous
-things right, and then let the people you hired build things you couldn't have.
+Technology leader. I like building things: companies, teams, systems and strength.
 
 ### What I'm building now
 
